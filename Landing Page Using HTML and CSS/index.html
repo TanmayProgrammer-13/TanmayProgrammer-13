@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StarBucks</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<section>
+    <div class="circle">
+    </div>
+<header>
+    <a href="#" class="logo"><img src="images/logo.png"></a>
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">Menu</a></li>
+<li><a href="#">What's New</a></li>
+<li><a href="#">Contact</a></li>
+</ul>
+</header>
+<div class="content">
+    <div class="textbox">
+       <h2>It's not Just Coffee <br><span>T-Bucks </span></span></h2> 
+       <p>Our Tea masters have distilled their years of tasting knowledge down to three simple questions to help you find a coffee you’re sure to love.</p>
+       <a href="file:///C:/Users/Tanmay/Desktop/HTML%20Multipage%20Responsive%20Series/Landing%20Page%20Using%20HTML%20and%20CSS/2ndpage.html">Learn More</a>
+    </div>
+    <div class="imgbox">
+       <img src="images/img1.png" class="starbucks"> 
+    </div>
+</div>
+<ul class="thumb">
+    <li><img src="images/thumb1.png" onclick="imgSlider('images/img1.png');changeCircleColor('#017143')"></li>
+    <li><img src="images/thumb2.png" onclick="imgSlider('images/img2.png');changeCircleColor('#eb7495')"></li>
+    <li><img src="images/thumb3.png" onclick="imgSlider('images/img3.png');changeCircleColor('#d752b1')"></li>
+    </ul>
+    <ul class="sci">
+        <li><a href="https://www.facebook.com/starbucksindia"><img src="images/facebook.png"></li>
+            <li><a href="https://twitter.com/starbucksindia"><img src="images/twitter.png"></li>
+                <li><a href="https://www.instagram.com/starbucksindia/"><img src="images/instagram.png"></li>
+    </ul>
+</section>
+<script type="text/javascript">
+function imgSlider(anything){
+    document.querySelector('.starbucks').src = anything;
+}
+function changeCircleColor(color){
+    const circle = document.querySelector('.circle');
+    circle.style.background = color;
+}
+
+
+
+</script>
+
+    
+</body>
+</html>
