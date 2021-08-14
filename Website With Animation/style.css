@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(#fff, #f9ffd6);
+    position: relative;
+    padding-left: 8%;
+    padding-right: 8%;
+    box-sizing: border-box;
+}
+nav{
+    display: flex;
+    align-items: center;
+    height: 80px;
+    position: relative;
+}
+nav img{
+    width: 30px;
+    cursor: pointer;
+}
+nav ul{
+    position: absolute;
+    top: 40px;
+    right: 0;
+}
+nav ul li{
+    list-style: none;
+    color: darkblue;
+    font-size: 12px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+nav ul::after{
+    content: '';
+    width: 1px;
+    height: 130px;
+    background: #d0d0d0;
+    position: absolute;
+    top: 20px;
+    left: -10px;
+}
+.content{
+    max-width: 600px;
+    margin-top: 100px;
+}
+.content h1{
+    font-size: 60px;
+}
+.content p{
+    max-width: 450px;
+    color: darkblue;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    margin: 40px 0;
+}
+.content button{
+    width: 160px;
+    padding: 10px 0;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    font-weight: 300;
+    background: #ffff70;
+    box-shadow: 0 3px 6px rgba( 0,0,0,0.16);
+    cursor: pointer;
+}
+.car-image{
+    width: 55%;
+    position: absolute;
+    right: 70px;
+    bottom: 60px;
+    animation: run 2s linear 1;
+}
+.bottom-menu{
+    display: flex;
+    position: absolute;
+   bottom: 50px;
+}
+.bottom-menu div{
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    margin-right: 50px;
+}
+.bottom-menu img{
+    width: 25px;
+    margin-right: 15px;
+}
+
+@keyframes  run{
+    0%{
+        transform: translate(-100px, -100px);
+    }
+}
+    100%{
+    transform: translate(0px, 0px);
+}
+}
