@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I So Lazy To Post Things
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanmayProgrammer-13&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanmayProgrammer-13&theme=cobalt)
