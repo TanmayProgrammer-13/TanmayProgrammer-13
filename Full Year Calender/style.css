@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto Slab', serif;
+}
+body{
+    background: #fff;
+}
+.calendar{
+    padding: 20px 40px;
+}
+.months-container{
+    justify-content: center;
+    gap: 40px;
+}
+.calendar .months-container .month-container{
+background: #fff;
+padding: 20px;
+min-width: 280px;
+box-shadow: 15px 15px 40px rgba(0,0,0,0.15);
+}
+.calendar table.month th.month-title{
+    color: crimson;
+    font-size: 1.9rem;
+    font-weight: 200;
+}
+table.month td:first-child,
+table.month td:last-child,
+table.month thead tr:nth-child(2) th:first-child,
+table.month thead tr:nth-child(2) th:last-child{
+    color: #0886fc;
+}
+.calendar table.month td.day .day-content{
+    padding: 6px 8px;
+}
+.calendar table.month th.day-header{
+    color: #777;
+    font-size: 0.9em;
+    font-weight: 700;
+}
+.month tr td{
+    font-size: 0.9em;
+    font-weight: 500;
+    color: #777;
+}
+table.month td.day .day-content:hover{
+    background-color: crimson;
+    color: #fff;
+}
+.calendar .calendar-header{
+    border: none;
+}
+.calendar .calendar-header table th:hover{
+    background: transparent;
+}
+.calendar .calendar-header .year-title{
+    font-size: 4em;
+    color: tomato;
+}
+.calendar .calendar-header .year-neighbor{
+    font-size: 2.25em;
+}
+.calendar .calendar-header .year-neighbor2{
+    font-size:1em;
+}
