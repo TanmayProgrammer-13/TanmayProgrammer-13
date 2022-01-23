@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    padding-top: 70px;
+}
+h1{
+    font-size: 80px;
+    margin: 0px;
+    color: #0a0a29;
+    font-family: 'Titillium Web';
+}
+h1 span{
+color: #536dfe;
+}
+img{
+    width: 450px;
+}
+p{
+    font-size: 25px;
+    font-family: 'Titillium Web';
+    padding: 15px;
+}
+button{
+    background: #536dfe;
+    padding: 10px 40px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    font-family: 'Titillium Web';
+    color: #fff;
+    border-radius: 2px;
+    cursor: pointer;
+}
