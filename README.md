@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanmay Sinha</h1>
 <h3 align="center">A passionate web development from India</h3>
 
-<img align="right" alt="avatar" width="400" src="https://mrprogrammer.in/wp-content/uploads/2022/04/avatar.png">
+<img align="right" alt="avatar" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfDGvEAHhvC-kmLwKSTn2EGxpzmIjV9CEGmVGjld4G9zBfV09iONVQLNLiwkkLBSePdOhq3KMax3We2QmnO2Y5HhMEmTfzfz4EQgDoJbiEYkLOhQtHV_llsesJi0lRkQWgIE4V9bIDmesVtnWptA-kn4_Gq0viE4J7CIM_XSMWUONihPQc4ZwGceCU/s320/img.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayprogrammer-13&label=Profile%20views&color=0e75b6&style=flat" alt="tanmayprogrammer-13" /> </p>
 
