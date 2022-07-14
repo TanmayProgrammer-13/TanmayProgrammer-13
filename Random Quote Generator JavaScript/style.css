@@ -1,0 +1,95 @@
+html, body {
+    overflow-x: hidden;
+    overflow-y: hidden; 
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-color: black;
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    z-index: -2;
+  }
+  
+  
+  
+  #content {
+    height: 45em;
+  } p {
+    max-width: 30em;
+    color: #fff;
+    background-color: #111;
+    font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+    letter-spacing:0.1em;
+    text-align:center;
+    margin: 40px auto;
+    text-transform: lowercase;
+    line-height: 145%;
+    font-size: 2em;
+    font-variant: small-caps;
+  }
+  
+  p :hover {
+    text-decoration: none;
+  }
+  
+  .container {
+    padding-top: 6em;
+    text-align: center;
+  }
+  
+  #b-nav {
+    padding-bottom: 5em;
+    position: fixed;
+    width: 100%;
+    bottom: 2em;
+  }
+  
+  #b-nav ul {
+    margin: 0;
+    padding: 0.5em;
+    list-style-type: none;
+    text-align: center;
+  }
+  
+  #b-nav ul li {
+    display: inline;
+  }
+  
+  #b-nav ul li a {
+    text-decoration: none;
+    padding: .2em 1em;
+    background-color: black;
+    opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+  }
+  
+  .hold {
+    width: 100%;
+    text-align: left;
+  }
+  
+#btn{
+background-color: #111;
+color: #fff;
+border-radius: 5px;
+padding: 10px;
+cursor: pointer;
+ }
+  
+  @media screen 
+   and (max-device-width: 800px) 
+    and (max-device-height: 640px) 
+    and (-webkit-device-pixel-ratio: 2) 
+    and (orientation: portrait) {
+      p {
+        font-size: 1em;
+      }
+  }
+  
+  .fa-twitter {
+    font-size: 30px !important;
+    margin-left: 20px;
+  }
+  
