@@ -1,0 +1,19 @@
+<svg id="Group_78" data-name="Group 78" xmlns="http://www.w3.org/2000/svg" width="21.62" height="20.761" viewBox="0 0 21.62 20.761">
+  <g id="user" transform="translate(0)">
+    <g id="Group_59" data-name="Group 59" transform="translate(3.649)">
+      <g id="Group_58" data-name="Group 58">
+        <path id="Path_122" data-name="Path 122" d="M126.474,0a5.474,5.474,0,1,0,5.474,5.474A5.48,5.48,0,0,0,126.474,0Z" transform="translate(-121)" fill="#4599ff"/>
+      </g>
+    </g>
+    <g id="Group_61" data-name="Group 61" transform="translate(0 12.164)">
+      <g id="Group_60" data-name="Group 60">
+        <path id="Path_123" data-name="Path 123" d="M46.934,302.36A7.8,7.8,0,0,0,41.34,300H38.907a7.8,7.8,0,0,0-5.594,2.36A7.978,7.978,0,0,0,31,307.988a.608.608,0,0,0,.608.608h17.03a.608.608,0,0,0,.608-.608A7.978,7.978,0,0,0,46.934,302.36Z" transform="translate(-31 -300)" fill="#4599ff"/>
+      </g>
+    </g>
+  </g>
+  <g id="price-tag" transform="translate(15.49 7.116) rotate(-90)">
+    <g id="Group_62" data-name="Group 62" transform="translate(0 0)">
+      <path id="Path_124" data-name="Path 124" d="M5.492,0H3.871a1.142,1.142,0,0,0-.813.337L.218,3.177a.744.744,0,0,0,0,1.052L1.9,5.913a.744.744,0,0,0,1.052,0L5.793,3.071a1.141,1.141,0,0,0,.337-.813V.639A.639.639,0,0,0,5.492,0ZM4.725,2.043A.639.639,0,1,1,5.364,1.4.639.639,0,0,1,4.725,2.043Z" fill="#4599ff"/>
+    </g>
+  </g>
+</svg>

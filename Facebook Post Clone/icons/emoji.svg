@@ -1,0 +1,25 @@
+<svg id="Group_79" data-name="Group 79" xmlns="http://www.w3.org/2000/svg" width="21.62" height="21.62" viewBox="0 0 21.62 21.62">
+  <g id="happy" transform="translate(0 0)">
+    <g id="Group_64" data-name="Group 64">
+      <g id="Group_63" data-name="Group 63">
+        <path id="Path_125" data-name="Path 125" d="M18.454,3.166A10.81,10.81,0,1,0,3.166,18.454,10.81,10.81,0,1,0,18.454,3.166ZM10.81,20.333a9.523,9.523,0,1,1,9.523-9.523A9.534,9.534,0,0,1,10.81,20.333Z" transform="translate(0 0)" fill="#fbba08"/>
+      </g>
+    </g>
+    <g id="Group_66" data-name="Group 66" transform="translate(4.461 7.165)">
+      <g id="Group_65" data-name="Group 65">
+        <path id="Path_126" data-name="Path 126" d="M109.66,170.471a2.705,2.705,0,0,0-3.822,0,.643.643,0,0,0,.91.91,1.417,1.417,0,0,1,2,0,.643.643,0,0,0,.91-.91Z" transform="translate(-105.65 -169.68)" fill="#fbba08"/>
+      </g>
+    </g>
+    <g id="Group_68" data-name="Group 68" transform="translate(12.96 7.165)">
+      <g id="Group_67" data-name="Group 67">
+        <path id="Path_127" data-name="Path 127" d="M310.922,170.471a2.706,2.706,0,0,0-3.822,0,.643.643,0,1,0,.91.91,1.417,1.417,0,0,1,2,0,.643.643,0,0,0,.91-.91Z" transform="translate(-306.912 -169.68)" fill="#fbba08"/>
+      </g>
+    </g>
+    <g id="Group_70" data-name="Group 70" transform="translate(4.461 11.282)">
+      <g id="Group_69" data-name="Group 69">
+        <path id="Path_128" data-name="Path 128" d="M117.705,267.175H106.294a.643.643,0,0,0-.643.643,6.349,6.349,0,0,0,12.7,0A.643.643,0,0,0,117.705,267.175ZM112,272.88a5.069,5.069,0,0,1-5.021-4.418h10.042A5.069,5.069,0,0,1,112,272.88Z" transform="translate(-105.651 -267.175)" fill="#fbba08"/>
+      </g>
+    </g>
+  </g>
+  <path id="Rectangle_172" data-name="Rectangle 172" d="M0,0H11.268a.056.056,0,0,1,.056.056v0A5.606,5.606,0,0,1,5.718,5.662H5.606A5.606,5.606,0,0,1,0,.056V0A0,0,0,0,1,0,0Z" transform="translate(5.112 12.31)" fill="#fbba08"/>
+</svg>

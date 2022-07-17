@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="150" viewBox="0 0 150 150">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5db9ee"/>
+      <stop offset="1" stop-color="#189be7"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_28" data-name="Group 28" transform="translate(-4910 -1380)">
+    <rect id="Logo" width="150" height="150" rx="75" transform="translate(4910 1380)" fill="url(#linear-gradient)"/>
+    <text id="CN" transform="translate(4939 1477)" fill="#fff" font-size="61" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">CN</tspan></text>
+  </g>
+</svg>
