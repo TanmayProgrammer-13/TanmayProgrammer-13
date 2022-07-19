@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [http://mrprogrammer.in/](http://mrprogrammer.in/)
 
-- 📝 I regularly write articles on [https://mrprogrammer.in/index.php/blog](https://mrprogrammer.in/index.php/blog)
+- 📝 I regularly write articles on [https://mrprogrammer.in/](https://mrprogrammer.in/index.php/blog)
 
 - 💬 Ask me about **HTML,CSS or JavaScript**
 
