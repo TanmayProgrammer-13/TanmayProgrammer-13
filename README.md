@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/mrprogrammer21" target="blank"><img src="https://img.shields.io/twitter/follow/mrprogrammer21?logo=twitter&style=for-the-badge" alt="mrprogrammer21" /></a> </p>
 
-- 🔭 I’m currently working on **JavaScript & Go Lang**
+- 🔭 I’m currently working on **JavaScript & Socket.io**
 
-- 🌱 I’m currently learning **Go Lang**
+- 🌱 I’m currently learning **Socket.io**
 
 - 👯 I’m looking to collaborate on **Web Dev Projects**
 
