@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "node": "^18.10.0",
+    "nodemailer": "^6.8.0"
+  },
+  "name": "email-sender",
+  "version": "1.0.0",
+  "description": "send mails using node.js",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mr Programmer",
+  "license": "ISC"
+}
